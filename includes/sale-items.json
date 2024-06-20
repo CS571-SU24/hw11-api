@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Apple",
+        "description": "A crisp, juicy fruit with a sweet to tart taste, commonly red, green, or yellow in skin color.",
+        "price": 0.75
+    },
+    {
+        "name": "Bagel",
+        "description": "A dense, chewy bread roll, traditionally shaped into a ring, often topped with seeds or seasonings.",
+        "price": 0.50
+    },
+    {
+        "name": "Coconut",
+        "description": "A large, tropical fruit with a hard shell, edible white flesh, and a clear liquid inside, known as coconut water.",
+        "price": 2.50
+    },
+    {
+        "name": "Donut",
+        "description": "A sweet, fried dough treat, typically circular with a hole in the center, and often glazed or topped with sugar and other sweets.",
+        "price": 1.50
+    },
+    {
+        "name": "Egg",
+        "description": "A versatile, oval-shaped ingredient with a hard outer shell, containing a protein-rich white and a nutrient-dense yolk inside.",
+        "price": 1.00
+    }
+]
